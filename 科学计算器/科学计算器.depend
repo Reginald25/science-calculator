@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1523840465 source:f:\c语言程序设计\科学计算器\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	"myhead.h"
+	"stackfun.h"
+
+1523685854 f:\c语言程序设计\科学计算器\myhead.h
+
+1523703311 f:\c语言程序设计\科学计算器\stackfun.h
+
+1523840465 source:f:\c语言\c语言程序设计\科学计算器\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	<string.h>
+	<math.h>
+	"myhead.h"
+	"stackfun.h"
+
+1523685854 f:\c语言\c语言程序设计\科学计算器\myhead.h
+
+1523703311 f:\c语言\c语言程序设计\科学计算器\stackfun.h
+
